@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ![Takeshi Miura's GitHub stats](https://github-readme-stats.vercel.app/api?username=1222-takeshi&count_private=true)
 
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1222-takeshi&theme={Most Commit Language}&exclude={java}
