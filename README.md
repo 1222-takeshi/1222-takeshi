@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Takeshi Miura's GitHub stats](https://github-readme-stats.vercel.app/api?username=1222-takeshi&count_private=true)
-
+![](https://raw.githubusercontent.com/1222-takeshi/1222-takeshi/main/profile-summary-card-output/city_lights/0-profile-details.svg)
+![](https://raw.githubusercontent.com/1222-takeshi/1222-takeshi/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/1222-takeshi/1222-takeshi/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)
