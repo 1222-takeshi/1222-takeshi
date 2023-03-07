@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **1222-takeshi/1222-takeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Takeshi Miura's GitHub stats](https://github-readme-stats.vercel.app/api?username=1222-takeshi&count_private=true)
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1222-takeshi&theme={Most Commit Language}&exclude={java}
